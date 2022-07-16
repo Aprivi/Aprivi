@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aprivi
 - 👀 I’m interested in Software development - large experience in C# 
-- 🌱 I’m currently learning ASP.NET Core and AZURE Cloud 
-- 💞️ I’m looking to collaborate on ASP.NET and C# projects
+- 🌱 I’m currently learning AI, AZURE Cloud and ASP.NET Core  
+- 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me: aprivi@uol.com.br
 
 <!---
