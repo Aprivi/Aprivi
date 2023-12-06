@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development - large experience in C# 
 - 🌱 I’m currently learning AI, AZURE Cloud and ASP.NET Core  
 - 💞️ I’m looking to collaborate on challenging projects
-- 📫 How to reach me: aprivi@uol.com.br
+- 📫 How to reach me: alexandre@alfasistema.com.br
 
 <!---
 Aprivi/Aprivi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
